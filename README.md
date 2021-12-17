@@ -58,9 +58,9 @@
 dotIndicatorFocus：		指示器选中后的颜色 
 dotIndicatorNormal：		指示器默认颜色
 dotSize：				指示器大小
-dotDistance:			指示器间距
-dotGravity:				指示器选位置（center|right|left）
-bottomColor:			指示器背景色
-withProportion:			定义宽高比
-heightProportion:		定义宽高比
+dotDistance:			 指示器间距
+dotGravity:				 指示器选位置（center|right|left）
+bottomColor:			 指示器背景色
+withProportion:			 定义宽高比
+heightProportion:		 定义宽高比
 ```
